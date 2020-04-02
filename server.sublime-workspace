@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"army",
+				"armyWithSupport"
+			],
+			[
+				"supp",
+				"supportList"
+			],
+			[
+				"su",
+				"supportList"
+			],
+			[
+				"list",
+				"list_length"
+			],
+			[
+				"colla",
+				"collatz_eval"
+			],
+			[
+				"coll",
+				"collatz_eval"
+			],
+			[
+				"max",
+				"maxLength2"
+			],
+			[
+				"maxlen",
+				"maxLength1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jerryche/Documents/jerry-che-react/src/App.js",
+		"/Users/jerryche/Documents/jerry-che-react/server.js",
+		"/Users/jerryche/Documents/jerry-che-react/src/index.js",
+		"/Users/jerryche/Documents/jerry-che-react/src/index.css",
+		"/Users/jerryche/Documents/jerry-che-react/package.json",
+		"/Users/jerryche/Documents/jerry-che-react/src/registerServiceWorker.js",
+		"/Users/jerryche/Documents/jerry-che-react/src/App.test.js",
+		"/Users/jerryche/Documents/jerry-che-react/src/App.css",
+		"/Users/jerryche/Documents/jerry-che-react/Server.js",
+		"/Users/jerryche/Documents/jerry-che-react/build/manifest.json",
+		"/Users/jerryche/Documents/jerry-che-react/build/asset-manifest.json",
+		"/Users/jerryche/Documents/jerry-che-react/build/service-worker.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/Sample App/my-app/src/App.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/Sample App/my-app/src/index.js",
+		"/Users/jerryche/Documents/jerry-che-react/package-lock.json",
+		"/private/var/folders/86/5ns63_r52vq6r_hwcj1zl_080000gn/T/595a02fc-3bfb-4086-abc9-25ac168e5e5e/site/wwwroot/build/resumeData.json",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/build/asset-manifest.json",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/build/service-worker.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/package-lock.json",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/Contact.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/registerServiceWorker.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/index.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/index.css",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/App.test.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/App.css",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/App.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/package.json",
+		"/Users/jerryche/Downloads/jerryche.PublishSettings",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/build/precache-manifest.e0813987eef5dc6d83a2d523e2ea6750.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/build/index.html",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/build/manifest.json",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/Map/README.md",
+		"/Users/jerryche/Downloads/bjornd-jvectormap-2.0.5-0-g1a905c8.zip",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/About.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/Portfolio.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/Footer.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/css/layout.css",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/css/default.css",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/Resume.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/worldmap.js",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/css/font-awesome/scss/_icons.scss",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/css/media-queries.css",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/css/magnific-popup.css",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/css/fontello/css/animation.css",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/manifest.json",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/public/index.html",
+		"/Users/jerryche/Documents/Personal Coding Projects/jerry-che-react/src/Components/Header.js",
+		"/Users/jerryche/Downloads/Project2evaluation.schema.json",
+		"/Users/jerryche/Downloads/Project2.schema.json",
+		"/Users/jerryche/Downloads/Project2evaluation.json",
+		"/Users/jerryche/Downloads/12.py",
+		"/Users/jerryche/Downloads/jerry-che-Project2.json",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/Diplomacy.log",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/makefile",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/NOV20.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/Collatz.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/Diplomacy.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/makefile",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy4.in",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy3.in",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/TestDiplomacy.out",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy2.out",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy5.in",
+		"/Users/jerryche/Downloads/asdf.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/RunCollatz.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/TestCollatz.out",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy1.tmp",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy2.tmp",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy1.in",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy1.out",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Project 2/diplomacy.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/TestCollatz.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/TestDiplomacy.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/TestCollatz.tmp",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy2.in",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/NOV18.py",
+		"/Users/jerryche/Downloads/NOV13.PY",
+		"/Users/jerryche/Downloads/Project2.json",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy4.out",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/diplomacy/RunDiplomacy3.out",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Nov11.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Assignments/Assignment7.py",
+		"/Users/jerryche/Documents/Personal Coding Projects/Receipe.txt",
+		"/Users/jerryche/Documents/Personal Coding Projects/RecipeConsolidator.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/NOV6.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/nov4.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Oct30.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Oct28.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Oct23.py",
+		"/Users/jerryche/Documents/Fall 2019/MIS 333K/Seeding/SeedingBooks.cs",
+		"/Users/jerryche/Documents/Fall 2019/MIS 333K/Seeding/SeedingExample.py",
+		"/Users/jerryche/Documents/Fall 2019/MIS 333K/SeedingExample.py",
+		"/Users/jerryche/Documents/Fall 2019/MIS 333K/Book Data.xlsm",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Oct21.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Oct16.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Map.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Oct14.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Classwork/Quiz11.py",
+		"/Users/jerryche/Downloads/mis-333k-fall-2019-quiz-export/imsmanifest.xml",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/SphereCollatz.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/RunCollatz.out",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/RunCollatz.tmp",
+		"/Users/jerryche/Downloads/Project1.schema.json",
+		"/Users/jerryche/Downloads/jc78222-Project1.json",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/Collatz.log",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Main.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/Random.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Collatz.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/RunCollatz.in",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/Cache_Out.txt",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/Collatz_Out.txt",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/Cache.txt",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/collatz/requirements.txt",
+		"/Users/jerryche/Downloads/Project1.json",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Reduce.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Lol.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Prime.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Assignment 5/makefile",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Assignment 5/MaximumTest.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Assignment 5/Maximum.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/makefile",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/Avg.py",
+		"/Users/jerryche/Documents/Fall 2019/CS 330E/AvgTest.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
