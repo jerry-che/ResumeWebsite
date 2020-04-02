@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"Jerry Che",
+    "occupation":"A Master of Science in Information Technology Management Student at UT Austin",
+    "description":"",
+    "image":"profilepic.png",
+    "bio":["Hi, my name is Jerry and I'm from McKinney, TX. I am currently attending the McCombs School of Business at UT Austin studying for a Masters of Science in Information Technology Management. I have just recently graduated with a BBA in Management Information Systems and a certificate in Computer Science in December 2019.       ",
+      "\n",
+      "I love sports especially basketball and football. I've been a big fan of Longhorn football since I was young. I'm a huge Dallas Mavericks fan and sometimes reminisce on the good times when Mavericks made it to the finals in 2011 without a super team(*cough* Warriors). In my free time, I try to stay active by working out and playing pick up basketball. I also love outdoor activities. My ideal vacation would be to go somewhere with mountains for some skiing and hiking. I'm also a big fan of Netflix and binge watching shows. My favorite shows of all time are the Office, Parks and Recreation, the 100, Suits, and Game of Thrones."],
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jerry_che@outlook.com",
+    "phone": "469-556-1089",
+    "address":{
+      "street":"8608 Brook Hollow Dr.",
+      "city":"McKinney",
+      "state":"Texas",
+      "zip": "75072"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1uv4O78ypGUhjMt0qmZcVSFhSSKuhQBl2/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jerryche24",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jerry-che/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/bigjche/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jerry-che",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Texas at Austin",
+        "degree":"Masters of Science in Information Technology Management",
+        "graduated":"May 2021",
+        "description":"Concentration in Cybersecurity"
+      },
+      {
+        "school":"University of Texas at Austin",
+        "degree":"Bachelors of Business Adminstration in Management Information Systems, CS Certificate",
+        "graduated":"December 2019",
+        "description":"3.7 GPA"
+      }
+    ],
+    "work":[
+      {
+        "company":"McCombs IROM Department",
+        "title":"MIS 333K Web Development Teaching Assitant",
+        "years":"January 2019 - December 2019",
+        "description":["Facilitated discussion on Web Development techniques like object-oriented design, MVC architecture, and ASP.NET","Tested back-end functionality of final project to ensure over 100 business requirements have been incorporated ","Solved complex debugging problems on web application programs for over 100 students "]
+                 
+
+      },
+      {
+        "company":"Protiviti",
+        "title":"Technology Consulting Intern",
+        "years":"June 2019 - August 2019",
+        "description":["Assessed security of client networks, hosts, and applications to define gaps and recommend risk mitigation techniques","Assisted in integrating Splunk Enterprise into IT architecture to quickly identify and respond to internal and external attacks","Developed a three-year strategy roadmap for one of the largest non-profit organizations raising more than $800 million a year","Conducted physical walkthroughs of hospitals and clinics to ensure HIPPA data security practices are being followed","Utilized the NIST Cybersecurity Framework to develop best-practice policies, procedures, and processes","Interviewed essential personnel to investigate risks and concerns in information security to formulate a report for BOD"]
+      },
+
+      {
+        "company":"Spaces Management",
+        "title":"Leasing Agent",
+        "years":"June 2018 - August 2018",
+        "description":["Prepare and execute leases in accordance with state and local property standards and regulations using Entrata","Perform administrative duties like audits on unpaid balances, processing payments, and communication with 345 tenants","Assist the team in bringing our pre-lease percentage from 60% to 90% through promotional fliers, outreach events, and social media posts","Consulted with over 100 prospective clients about living preferences and conducted tours of select units based on their personal preferences"]
+      },
+
+      {
+        "company":"Undergraduate Studies",
+        "title":"Data Analyst Intern",
+        "years":"January 2018 - May 2018",
+        "description":["Developed Tableau data visualization dashboards to help analyze trends and relationships in data using statistical techniques","Summarized findings in a management report to articulate reasons for success and identify root causes for unsuccessful programs","Gathered and performed data validation checks on information from 10 departments and 100 different programs"]
+      }
+    ],
+    "academicprojects":[
+
+      {
+        "title":"Austin Diaper Bank",
+        "class":"MIS 374",
+        "semester":"Spring 2019",
+        "details":["Collaborated with a team to integrate Salesforce Non-Profit Cloud into ADB’s existing website for better data management using project management techniques and Agile methodology","Consulted weekly with ADB key stakeholders to communicate weekly project status, increasing scope, and system requirements"]
+
+      },
+
+      {
+        "title":"Bevo's Bookstore",
+        "class":"MIS 333K",
+        "semester":"Fall 2018",
+        "details":["Collaborated with a team using Agile methods to engineer a website mimicking an online retailer for books","Designed a database in Azure and integrated it using C# model classes and Entity Framework data migrations","Integrated Identity and Roles-Based authorization into the website for limited functionality and data security"]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"C#",
+        "level":"65%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Splunk",
+        "level":"30%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
