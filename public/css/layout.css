@@ -262,10 +262,6 @@ ul#nav li.current a { color: #11ABB0; }
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-.skills li{
-  list-style-type: none;
-}
-
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
@@ -273,6 +269,16 @@ ul#nav li.current a { color: #11ABB0; }
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
+}
+.work li {
+   font-size: 14px;
+   margin-left: 10px;
+   list-style-type: circle;
+}
+.academicprojects li {
+   font-size: 14px;
+   margin-left: 10px;
+   list-style-type: circle;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
