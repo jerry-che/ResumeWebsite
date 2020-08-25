@@ -17,7 +17,7 @@
       "zip": "75072"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1uv4O78ypGUhjMt0qmZcVSFhSSKuhQBl2/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1W2bcgaO1yOZP8qw38L3mYpeyLvIdW-4e/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -48,7 +48,7 @@
         "school":"University of Texas at Austin",
         "degree":"Masters of Science in Information Technology Management",
         "graduated":"May 2021",
-        "description":"Concentration in Cybersecurity"
+        "description":"4.0 GPA /n Course work includes: Cognitive Computing, Advanced Data Mining & Web Analytics, User Generated Content Analytics, Big Data & Distributed Programming, Advanced Programming & App Development"
       },
       {
         "school":"University of Texas at Austin",
@@ -58,6 +58,14 @@
       }
     ],
     "work":[
+      {
+        "company":"Good Green Technology",
+        "title":"Software Engineer",
+        "years":"May 2020 - August 2020",
+        "description":["• Collaborate with a development team to engineer new API calls and add features to an existing SaaS platform increasing server requesting efficiency by 20%, Maintain the iOS client application through system analysis, developing new features, and resolving existing issues, Create QA testing scripts and execute test cases to report back any issues to development team, Innovate by pitching new functionality to improve user experience and attract more users "]
+                 
+
+      },
       {
         "company":"McCombs IROM Department",
         "title":"MIS 333K Web Development Teaching Assitant",
@@ -126,8 +134,8 @@
         "level":"80%"
       },
       {
-        "name":"Splunk",
-        "level":"30%"
+        "name":"MongoDB",
+        "level":"40%"
       },
       {
         "name":"SQL",
@@ -178,10 +186,6 @@
       {
         "text":"“It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.”",
         "user":"Vince Lombardi"
-      },
-      {
-        "text":"",
-        "user":"No One"
       }
     ]
   }
